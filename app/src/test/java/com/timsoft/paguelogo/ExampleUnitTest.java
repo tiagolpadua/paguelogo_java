@@ -1,4 +1,4 @@
-package com.timsoft.paguelogo_java;
+package com.timsoft.paguelogo;
 
 import org.junit.Test;
 

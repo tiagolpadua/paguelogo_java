@@ -1,4 +1,4 @@
-package com.timsoft.paguelogo_java;
+package com.timsoft.paguelogo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

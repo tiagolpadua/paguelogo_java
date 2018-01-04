@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">paguelogo_java</string>
+    <string name="title_activity_add_conta">AddContaActivity</string>
 </resources>
